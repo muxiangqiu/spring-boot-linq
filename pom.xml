@@ -5,7 +5,7 @@
 
 	<groupId>org.malagu.linq</groupId>
 	<artifactId>spring-boot-linq</artifactId>
-	<version>1.1.0.RELEASE</version>
+	<version>1.1.1.RELEASE</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>linq for spring boot</description>
 	<url>https://github.com/muxiangqiu/spring-boot-linq</url>
@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>org.malagu.linq</groupId>
 			<artifactId>linq</artifactId>
-			<version>1.1.0.RELEASE</version>
+			<version>1.1.1.RELEASE</version>
 			<optional>true</optional>
 		</dependency>
 		<dependency>
